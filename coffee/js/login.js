@@ -1,0 +1,1 @@
+(function(){var n;n=angular.module("proACT",[]),n.controller("LoginController",function(){return this.languages=window.languages.tc,this.changeLanguage=function(n){return this.languages=window.languages[n]}})}).call(this);
